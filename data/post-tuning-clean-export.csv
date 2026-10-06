@@ -1,0 +1,136 @@
+timestamp,agent.name,rule.description,rule.level,rule.id
+"Oct 3, 2026 @ 22:53:06.623",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:53:06.612",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:53:04.338",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:53:04.335",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:53:02.083",Windows-vm,Multiple Windows Logon Failures (post-tuning validation rule),10,100015
+"Oct 3, 2026 @ 22:53:02.074",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:59.836",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:59.832",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:57.606",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:57.593",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:55.401",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:55.361",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:53.054",Windows-vm,Multiple Windows Logon Failures (post-tuning validation rule),10,100015
+"Oct 3, 2026 @ 22:52:53.043",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:50.795",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:50.791",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:48.572",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:48.570",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:46.298",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:46.285",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:44.035",Windows-vm,Multiple Windows Logon Failures (post-tuning validation rule),10,100015
+"Oct 3, 2026 @ 22:52:44.026",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:41.751",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:41.741",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:39.518",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:39.515",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:37.272",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:37.262",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:34.999",Windows-vm,Multiple Windows Logon Failures (post-tuning validation rule),10,100015
+"Oct 3, 2026 @ 22:52:34.985",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:32.778",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:32.732",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:30.154",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:30.119",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:28.257",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:28.245",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:25.985",Windows-vm,Multiple Windows Logon Failures (post-tuning validation rule),10,100015
+"Oct 3, 2026 @ 22:52:25.976",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:23.728",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:23.725",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:21.472",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:21.465",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:19.176",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:19.163",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:16.880",Windows-vm,Multiple Windows Logon Failures (post-tuning validation rule),10,100015
+"Oct 3, 2026 @ 22:52:16.877",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:14.595",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:14.583",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:12.322",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:12.319",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:09.939",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:09.927",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:07.630",Windows-vm,Multiple Windows Logon Failures (post-tuning validation rule),10,100015
+"Oct 3, 2026 @ 22:52:07.622",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:05.388",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:05.382",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:02.946",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:02.936",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:00.607",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:52:00.597",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:58.307",Windows-vm,Multiple Windows Logon Failures (post-tuning validation rule),10,100015
+"Oct 3, 2026 @ 22:51:58.297",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:55.956",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:55.953",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:53.641",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:53.636",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:53.497",Windows-vm,Name resolution for the name wpad timed out,5,61109
+"Oct 3, 2026 @ 22:51:51.373",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:51.365",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:48.997",Windows-vm,Multiple Windows Logon Failures (post-tuning validation rule),10,100015
+"Oct 3, 2026 @ 22:51:48.986",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:46.645",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:46.642",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:45.777",localhost.localdomain,File added to the system.,5,554
+"Oct 3, 2026 @ 22:51:44.362",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:44.359",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:42.164",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:42.160",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:39.728",Windows-vm,Multiple Windows Logon Failures (post-tuning validation rule),10,100015
+"Oct 3, 2026 @ 22:51:39.722",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:37.429",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:37.418",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:35.075",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:35.065",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:32.724",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:32.721",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:30.442",Windows-vm,Multiple Windows Logon Failures (post-tuning validation rule),10,100015
+"Oct 3, 2026 @ 22:51:30.437",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:27.918",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:27.907",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:25.524",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:25.519",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:23.189",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:23.184",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:20.903",Windows-vm,Multiple Windows Logon Failures (post-tuning validation rule),10,100015
+"Oct 3, 2026 @ 22:51:20.889",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:18.644",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:18.625",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:16.304",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:16.291",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:14.008",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:51:13.965",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:47:43.763",Windows-vm,Software protection service scheduled successfully.,3,60642
+"Oct 3, 2026 @ 22:43:45.025",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:42:15.154",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:39:01.708",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:37:48.708",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:34:18.694",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:31:45.924",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:30:43.593",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:30:29.243",Windows-vm,Software protection service scheduled successfully.,3,60642
+"Oct 3, 2026 @ 22:29:59.439",Windows-vm,License activation (slui.exe) failed.,5,60646
+"Oct 3, 2026 @ 22:29:14.641",localhost.localdomain,VirusTotal: Alert - /etc/resolv.conf - No positives found,3,87104
+"Oct 3, 2026 @ 22:29:10.073",Windows-vm,Name resolution for the name wpad timed out,5,61109
+"Oct 3, 2026 @ 22:29:10.026",Windows-vm,Name resolution for the name wpad timed out,5,61109
+"Oct 3, 2026 @ 22:29:06.703",Windows-vm,Software protection service scheduled successfully.,3,60642
+"Oct 3, 2026 @ 22:29:06.661",Windows-vm,License activation (slui.exe) failed.,5,60646
+"Oct 3, 2026 @ 22:29:06.629",Windows-vm,License activation (slui.exe) failed.,5,60646
+"Oct 3, 2026 @ 22:29:02.504",localhost.localdomain,Integrity checksum changed.,7,550
+"Oct 3, 2026 @ 22:27:05.393",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:24:01.217",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:21:36.233",Windows-vm,Software protection service scheduled successfully.,3,60642
+"Oct 3, 2026 @ 22:21:16.075",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:20:12.096",Windows-vm,"Low-severity RDP auth failure from internal test range - downgraded from level 5, not suppressed",3,100010
+"Oct 3, 2026 @ 22:18:46.088",Windows-vm,System time changed,5,60132
+"Oct 3, 2026 @ 22:18:24.787",Windows-vm,The database engine attached a database.,3,60798
+"Oct 3, 2026 @ 22:18:24.661",Windows-vm,The database engine has completed recovery steps.,3,60809
+"Oct 3, 2026 @ 22:18:24.630",Windows-vm,The database engine is replaying log file C:\Winnt\system32\wins\j50.log.,3,60808
+"Oct 3, 2026 @ 22:18:24.598",Windows-vm,The database engine is initiating recovery steps.,3,60807
+"Oct 3, 2026 @ 22:18:24.520",Windows-vm,The database engine is starting a new instance.,3,60805
+"Oct 3, 2026 @ 22:14:54.422",Windows-vm,Discovery activity executed,3,92031
+"Oct 3, 2026 @ 22:14:54.392",Windows-vm,Discovery activity executed,3,92031
+"Oct 3, 2026 @ 22:14:54.392",Windows-vm,Discovery activity executed,3,92031
+"Oct 3, 2026 @ 22:14:54.361",Windows-vm,Discovery activity executed,3,92031
+"Oct 3, 2026 @ 22:14:31.364",Windows-vm,Wazuh agent started.,3,503
